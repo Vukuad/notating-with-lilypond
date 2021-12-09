@@ -1,5 +1,5 @@
 \header {
-  title = "Twinkle Twinkle"
+  title = "Tut bakim"
   composer = "Mozart"
 }
 
@@ -7,7 +7,7 @@
   c8\mf c g' b
   a a <g d>4
   f4 f e e
-  d d c2
+  d d c
 }
 
 \addlyrics {
